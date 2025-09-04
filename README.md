@@ -11,22 +11,14 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I'm a passionate developer who loves building things that live on the internet. I enjoy creating solutions that are both functional and beautiful.
-
-- 🎓 Currently **Lead Fullstack Developer** at **Pediatrics Technologies**
-- 💡 I love exploring new technologies and developing software solutions
-
----
-
 ## 🚀 What I'm Up To
 
-- 🔭 I'm currently working on **[Your Current Project]**
+- 💼 Currently **Lead Fullstack Developer** at **Pediatrics Technologies**
+- 🔭 I'm currently working on **Pooficient** 
 - 🌱 I'm currently learning **LangChain**
 - 💬 Ask me about **Mobile App Development, Web Development, Python, JavaScript, C++**
 - 📫 How to reach me: **sismanbartu@gmail.com**
-- ⚡ Fun fact: **I'm a big Pink Floyd fan and love Powerlifting!**
+- ⚡ Fun fact: I'm a big **Pink Floyd** fan and love **Powerlifting!**
 
 ---
 
