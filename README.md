@@ -1,4 +1,4 @@
-# Hi there, I'm Bartu Sisman 👋
+# Bartu Sisman
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;Automation+Enthusiast;Powerlifter+%26+Guitarist;Building+Healthcare+Apps;React+Native+%26+Flutter+Developer" alt="Typing SVG" />
@@ -8,26 +8,23 @@
   <img src="https://komarev.com/ghpvc/?username=bartusisman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🎓 **Sabanci University** - B.S. in Computer Science & Engineering (Graduated)
-- 💼 Currently **Lead Full Stack Mobile App Developer** at **Pediatrics Technologies**
-- 🏆 Founded Chess Club | Vice President of Sabanci Esports | Board Director of Literature Club
+**Computer Science Graduate** from Sabanci University, currently working as **Lead Full Stack Mobile Developer** at Pediatrics Technologies.
+
+- 🔭 Building **Pooficient** with React Native/Expo & Supabase
+- 🌱 Exploring Cloud Architecture, Kubernetes, and AI integrations
+- 💼 Specialized in React Native, Flutter, and Full Stack Development
+- 🏆 Founded Chess Club | VP of Sabanci Esports | Board Director of Literature Club
 - 🎸 Powerlifter, guitarist, and Pink Floyd enthusiast
 - 📍 Based in Ankara, Türkiye
+- 📧 **sismanbartu@gmail.com**
 
-## 🚀 Current Focus
+<br/>
 
-- 🔭 Building **Pooficient** with React Native/Expo & Supabase and various other tools
-- 🌱 Currently exploring **Cloud Architecture, Kubernetes, and AI integrations**
-- 💬 Ask me about **React Native, Flutter, FlutterFlow, FastAPI, Supabase, C++**
-- 📫 Reach me at **sismanbartu@gmail.com**
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
 ### Languages
 <p align="left">
@@ -82,66 +79,72 @@
   <img src="https://img.shields.io/badge/Alembic-505050?style=for-the-badge" />
 </p>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bartusisman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartusisman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</div>
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bartusisman&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=70a5fd&fire=ff9554&currStreakLabel=bf91f3" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bartusisman&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartusisman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </div>
 
----
+<br/>
 
-## 🐍 Contribution Snake
+<div align="center">
+  <img width="850" src="https://github-readme-streak-stats.herokuapp.com/?user=bartusisman&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=70a5fd&fire=ff9554&currStreakLabel=bf91f3" />
+</div>
+
+<br/>
+
+## 🐍 Contribution Activity
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/bartusisman/bartusisman/output/snake.svg" alt="Snake animation" />
 </div>
 
----
+<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bartusisman&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bartusisman&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophy" />
 </div>
 
----
+<br/>
 
-## 🎵 Currently Playing
+## 🎵 Music Activity
 
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11141748360&count=3" alt="Spotify recently played" />
 </div>
 
----
+<br/>
 
-## 🎯 Interests & Activities
+## 🎯 Interests & Leadership
 
-### 🏫 University Leadership
-- ♟️ **Chess Club** - Founder
-- 🎮 **Sabanci Esports** - Vice President
-- 📚 **Literature Club** - Board Director
+**🏫 University Leadership**
+- Chess Club Founder
+- Sabanci Esports Vice President
+- Literature Club Board Director
 
-### 🌟 Personal Interests
-**Literature** | **Powerlifting** | **Music & Guitar** | **Chess** | **Mathematics**
+**🌟 Personal Interests**
+- Literature & Creative Writing
+- Powerlifting & Fitness
+- Guitar & Music Production
+- Competitive Chess
+- Mathematics & Problem Solving
 
----
+<br/>
 
-## 💭 Random Dev Quote
+## 💭 Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
----
+<br/>
 
-## 📫 Connect with Me
+## 📫 Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/bartu-sisman/">
@@ -155,16 +158,8 @@
   </a>
 </div>
 
-<div align="center">
-  <b>📧 sismanbartu@gmail.com | 📍 Ankara, Türkiye</b>
-</div>
-
----
+<br/>
 
 <div align="center">
-  <b>Thanks for visiting! Feel free to reach out for collaborations or just a chat about tech!</b>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
 </div>
