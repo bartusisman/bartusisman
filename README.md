@@ -126,11 +126,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartusisman&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎵 Spotify Activity
+## 🎵 Recently Played on Spotify
 
 <div align="center">
   <a href="https://open.spotify.com/user/11141748360">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11141748360&cover_image=true&theme=default&show_offline=true&background_color=1a1b27&bar_color=70a5fd&bar_color_cover=true" alt="Spotify" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11141748360&count=5&unique=true&width=500" alt="Spotify recently played" />
   </a>
 </div>
 
