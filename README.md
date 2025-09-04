@@ -8,6 +8,8 @@
   <img src="https://komarev.com/ghpvc/?username=bartusisman&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
 - 🎓 **Sabanci University** - B.S. in Computer Science & Engineering (Graduated)
@@ -16,12 +18,14 @@
 - 🎸 Powerlifter, guitarist, and Pink Floyd enthusiast
 - 📍 Based in Ankara, Türkiye
 
-## 🚀 What I'm Up To
+## 🚀 Current Focus
 
 - 🔭 Building **Pooficient** with React Native/Expo & Supabase and various other tools
 - 🌱 Currently exploring **Cloud Architecture, Kubernetes, and AI integrations**
 - 💬 Ask me about **React Native, Flutter, FlutterFlow, FastAPI, Supabase, C++**
 - 📫 Reach me at **sismanbartu@gmail.com**
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -77,6 +81,8 @@
   <img src="https://img.shields.io/badge/Alembic-505050?style=for-the-badge" />
 </p>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,19 +94,51 @@
   <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=bartusisman&theme=tokyonight&hide_border=true&stroke=0000&background=1a1b27&ring=70a5fd&fire=ff9554&currStreakLabel=bf91f3" />
 </div>
 
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bartusisman/bartusisman/output/snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bartusisman&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
-## 🏆 Activities & Leadership
+---
 
-### University Clubs
+## 🎵 Currently Playing
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11141748360&count=3" alt="Spotify recently played" />
+</div>
+
+---
+
+## 🎯 Interests & Activities
+
+### 🏫 University Leadership
 - ♟️ **Chess Club** - Founder
 - 🎮 **Sabanci Esports** - Vice President
 - 📚 **Literature Club** - Board Director
 
-## 🎯 Hobbies
+### 🌟 Personal Interests
 **Literature** | **Powerlifting** | **Music & Guitar** | **Chess** | **Mathematics**
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
 
 ## 📫 Connect with Me
 
@@ -118,36 +156,6 @@
 
 <div align="center">
   <b>📧 sismanbartu@gmail.com | 📍 Ankara, Türkiye</b>
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartusisman&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</div>
-
-## 🎵 Recently Played on Spotify
-
-<div align="center">
-  <a href="https://open.spotify.com/user/11141748360">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11141748360&count=5&unique=true&width=500" alt="Spotify recently played" />
-  </a>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bartusisman/bartusisman/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ---
