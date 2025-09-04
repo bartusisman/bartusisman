@@ -1,7 +1,7 @@
 # Hi there, I'm Bartu Sisman 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;CS+Student+at+Sabanci+University;Building+Apps+for+U.S.+Healthcare;Chess+Club+Founder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Mobile+Developer;Automation+Enthusiast;Powerlifter+%26+Guitarist;Building+Healthcare+Apps;React+Native+%26+Flutter+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -126,10 +126,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bartusisman&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎵 Now Playing
+## 🎵 Now Playing on Spotify
 
 <div align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=11141748360&cover_image=true&theme=default&bar_color_cover=true&bar_color=53b14f" />
+  <a href="https://open.spotify.com/user/11141748360">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=11141748360&count=3&width=500" alt="Spotify recently played" />
+  </a>
 </div>
 
 ---
@@ -137,11 +139,7 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bartusisman/bartusisman/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/bartusisman/bartusisman/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/bartusisman/bartusisman/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/bartusisman/bartusisman/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
