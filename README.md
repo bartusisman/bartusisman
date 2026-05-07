@@ -96,14 +96,6 @@
 
 <br/>
 
-## 🐍 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bartusisman/bartusisman/output/snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
 ## 🏆 Achievements
 
 <div align="center">
